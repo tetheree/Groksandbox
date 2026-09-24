@@ -1,0 +1,130 @@
+{
+  "weekOf": "Aug 25, 2026",
+  "title": "Weekly touches",
+  "sample": true,
+  "org": "O.R&L Construction",
+  "location": "Guilford CT",
+  "meta": "capacity-capped for estimating / BD",
+  "tagline": "Opp health tells you who's cooling. This list is who we touch.",
+  "capLabel": "Cap 8–10 / week",
+  "stats": {
+    "thisWeek": 10,
+    "keepWarm": 6,
+    "warmCold": 4,
+    "deferred": "~31",
+    "hotOnHuddle": 16
+  },
+  "rules": [
+    "Hot stays on huddle (no task)",
+    "Keep warm = live / slipping that need a touch",
+    "Warm cold = prior 2026 signal + preferably a named contact",
+    "Skip zero-contact cold until CC list"
+  ],
+  "deferred": {
+    "summary": "Deferred this week: ~31 (24 no named contact · 7 lower priority cold). Not on this week's list.",
+    "cadence": "Cap: 8–10 / week · Review Friday · Next week pulls from deferred · Queue, not a to-do",
+    "footnote": "Sample data · real firm names from huddle health"
+  },
+  "touches": [
+    {
+      "n": 1,
+      "account": "Freedom Reads",
+      "lane": "warm-cold",
+      "why": "RFP window end of Aug",
+      "touch": "Call / email RFP status",
+      "who": "Nick",
+      "day": "Wed",
+      "owner": "Alrun"
+    },
+    {
+      "n": 2,
+      "account": "InterCommunity",
+      "lane": "warm-cold",
+      "why": "ROM was 8/25; cooling",
+      "touch": "Follow up ROM",
+      "who": "Jeff",
+      "day": "Tue",
+      "owner": "Nora"
+    },
+    {
+      "n": 3,
+      "account": "GEM Sensors",
+      "lane": "warm-cold",
+      "why": "Post 8/21 site meeting",
+      "touch": "Thank-you + next step",
+      "who": "Site contact",
+      "day": "Thu",
+      "owner": "Alrun"
+    },
+    {
+      "n": 4,
+      "account": "35 E Industrial / Guardian",
+      "lane": "warm-cold",
+      "why": "Last teal 7/29",
+      "touch": "Re-open / status",
+      "who": "Named",
+      "day": "Wed",
+      "owner": "Nora"
+    },
+    {
+      "n": 5,
+      "account": "Albertus Magnus",
+      "lane": "keep-warm",
+      "why": "Multi-hall live on huddle",
+      "touch": "Light check-in",
+      "who": "Peter / Jim",
+      "day": "Fri",
+      "owner": "Alrun"
+    },
+    {
+      "n": 6,
+      "account": "CT Ortho",
+      "lane": "keep-warm",
+      "why": "LOA Part II follow-up",
+      "touch": "Status call",
+      "who": "Brian Hayes",
+      "day": "Tue",
+      "owner": "Nora"
+    },
+    {
+      "n": 7,
+      "account": "Friends Center",
+      "lane": "keep-warm",
+      "why": "New Center Whalley live",
+      "touch": "Progress note",
+      "who": "Elizabeth",
+      "day": "Thu",
+      "owner": "Alrun"
+    },
+    {
+      "n": 8,
+      "account": "IMA Wallingford",
+      "lane": "keep-warm",
+      "why": "Proposal out; drawings",
+      "touch": "Check-in",
+      "who": "Jonathan",
+      "day": "Wed",
+      "owner": "Nora"
+    },
+    {
+      "n": 9,
+      "account": "YMCA Westside Aquatics",
+      "lane": "keep-warm",
+      "why": "Board approval; next step",
+      "touch": "Thank-you / next",
+      "who": "Sean",
+      "day": "Fri",
+      "owner": "Alrun"
+    },
+    {
+      "n": 10,
+      "account": "Kinsley Power",
+      "lane": "keep-warm",
+      "why": "LOA expected",
+      "touch": "Confirm LOA",
+      "who": "John",
+      "day": "Mon",
+      "owner": "Nora"
+    }
+  ]
+}
